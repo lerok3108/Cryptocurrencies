@@ -1,4 +1,4 @@
-# Cryptocyrrencies
+# Cryptocurrencies
 ## Overview
 The purpose of this project was to prepare analysis of the current cryptocurrencies trading on the market for a hypothetical client preparing to invest in crypocurrencies. 
 ## Process
